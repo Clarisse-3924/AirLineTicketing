@@ -4,7 +4,7 @@ This projects help users to stop RFTC car without knocking on the door.  It cont
 # Login Page
 ![Login Page](images/Screenshot_20210810-193149.png)
 # Register page
-![Register]()images/Screenshot_20210810-193156.png
+![Register](images/Screenshot_20210810-193156.png)
 # Booking page
 ![Booking page](images/Screenshot_20210810-194240.png)
 # Login as Admin
