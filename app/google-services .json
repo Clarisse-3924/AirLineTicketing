@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217682302584",
+    "project_id": "booking-f445a",
+    "storage_bucket": "booking-f445a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217682302584:android:200d5734cc0f67d354bf8d",
+        "android_client_info": {
+          "package_name": "com.example.bookinginternationalcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217682302584-ceidh36fef70egp4d9uroj270bbosd54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpF0YbEciS5hWlYh7Cwt8NKqYokYkGfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217682302584-ceidh36fef70egp4d9uroj270bbosd54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
